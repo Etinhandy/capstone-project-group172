@@ -1,0 +1,47 @@
+ *  {
+color:white ;
+
+Font size: 14px;
+
+ }
+ 
+ 
+ /*Dark Blue (testimonials background): hsl(219, 30%, 18%) */
+section{
+background-color: rgb(2, 2, 20);
+text-align: center;
+text-emphasis-color: white;
+widths: 375px;
+text
+}
+
+
+
+div.promisepage{
+background-color:rgb(2, 2, 20) ;
+border: 1px solid rgb(2, 2, 20);
+text-emphasis-color: rgb(59, 3, 3);
+     
+}
+
+
+
+h1.soul {
+font-style: italic;
+text-decoration-color: white;
+color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
