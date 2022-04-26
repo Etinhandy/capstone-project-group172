@@ -1,9 +1,4 @@
- *  {
-color:white ;
-
-Font size: 14px;
-
- }
+ 
  
  
  /*Dark Blue (testimonials background): hsl(219, 30%, 18%) */
@@ -11,11 +6,13 @@ section{
 background-color: rgb(2, 2, 20);
 text-align: center;
 text-emphasis-color: white;
-widths: 375px;
-text
+
 }
 
-
+h1, h2, p {
+    text-align: center;
+    color:white;
+  }
 
 div.promisepage{
 background-color:rgb(2, 2, 20) ;
@@ -32,7 +29,11 @@ text-decoration-color: white;
 color:white;
 }
 
-
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
 
 
 
